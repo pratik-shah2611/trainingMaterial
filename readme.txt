@@ -1,1 +1,1 @@
-MySecond change from local.
+Change that both local and origin accepts.
